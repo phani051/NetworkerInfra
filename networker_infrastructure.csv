@@ -1,0 +1,7 @@
+Location,Server,Storage Node,Device,Month,Used Space (TB),Available Storage (TB),Backup Success Rate (%),NMC Server
+Location1,Server1,Node1,Device1,Jan,2.0,8.0,97.5,NMC_Server1
+Location1,Server2,Node2,Device2,Feb,3.5,6.5,92.3,NMC_Server1
+Location2,Server3,Node3,Device3,Mar,4.2,5.8,96.0,NMC_Server2
+Location2,Server4,Node4,Device4,Jan,1.8,8.2,94.8,NMC_Server2
+Location3,Server5,Node5,Device5,Feb,2.3,7.7,98.1,NMC_Server3
+Location3,Server6,Node6,Device6,Mar,3.1,6.9,93.2,NMC_Server3
